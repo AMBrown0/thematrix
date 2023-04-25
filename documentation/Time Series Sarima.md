@@ -2,7 +2,7 @@
 share: true
 ---
 Jupyter Notebook SARIMA example 
-![sarima-final.ipynb](./sarima-final.ipynb.md)
+![dm-sarima-final.ipynb](./dm-sarima-final.ipynb.md)
 
 Notebook Data
 ![jj](./jj.csv.md)
